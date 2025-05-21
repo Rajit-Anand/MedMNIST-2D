@@ -33,3 +33,6 @@ data/
 
 # 📚 HTML exports from notebooks
 *.html
+
+efficient-kan/
+Convolutional-KANs/
