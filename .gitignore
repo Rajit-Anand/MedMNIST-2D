@@ -1,0 +1,35 @@
+# 🔁 Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# ⚙️ Environment folders (virtualenv/conda)
+venv/
+env/
+
+# 📦 Model weight files
+*.pth
+
+# 📊 Dataset & data artifacts
+data/
+*.npz
+*.csv
+*.zip
+
+# 📝 Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# 💻 System files
+.DS_Store
+
+# 🔐 Environment variables and credentials
+.env
+
+# 🧪 Test and debug artifacts
+*.log
+*.tmp
+
+# 📦 Package and dependency lock files (if not required)
+*.lock
+
+# 📚 HTML exports from notebooks
+*.html

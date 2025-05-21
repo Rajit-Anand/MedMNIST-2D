@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Convolutional-KANs",
+        "./efficient-kan/src"
+    ]
+}
